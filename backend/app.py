@@ -1,7 +1,7 @@
 
 import tornado.ioloop
 import tornado.web
-from views.routes import StudentsHandler, GradesHandler, StudentPerformanceHandler
+from backend.views.routes import StudentsHandler, GradesHandler, StudentPerformanceHandler
 
 class CORSRequestHandler(tornado.web.RequestHandler):
     def set_default_headers(self):
