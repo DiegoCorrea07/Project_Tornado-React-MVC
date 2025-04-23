@@ -20,9 +20,9 @@ Durante la investigación y desarrollo de este proyecto, se consultaron los sigu
 * **Video Explicativo de Desarrollo y Despligue de la Aplicación en Render:**
     * [Enlace](https://youtu.be/LDFznyBsDPI)
 
-## Repositorio GitHub del Proyecto
+## Repositorios GitHub del Proyecto
 
-Puedes encontrar el código fuente completo de este proyecto en el siguiente repositorio de GitHub:
+Puedes encontrar el código fuente completo de este proyecto en el siguientes repositorios de GitHub:
 
 * [Enlace del Repositorio Backend](https://github.com/DiegoCorrea07/Project_Tornado-React-MVC.git)
 * [Enlace del Repositorio Frontend](https://github.com/DiegoCorrea07/Project_Tornado-React-Frontend.git)
@@ -33,4 +33,3 @@ Puedes ver una demostración en vivo de este proyecto desplegado en las siguient
 
 * **Frontend (React):** + **Backend (Tornado API):** [Enlace del Deploy en Render](https://my-frontend-react.onrender.com)
 
-**IMPORTANTE:** Para que la aplicación funcione correctamente, asegúrate de que el backend (API) esté en funcionamiento y que el frontend esté configurado para comunicarse con la URL correcta del backend.
