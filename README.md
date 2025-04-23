@@ -22,7 +22,7 @@ Durante la investigación y desarrollo de este proyecto, se consultaron los sigu
 
 ## Repositorios GitHub del Proyecto
 
-Puedes encontrar el código fuente completo de este proyecto en el siguientes repositorios de GitHub:
+Puedes encontrar el código fuente completo de este proyecto en los siguientes repositorios de GitHub:
 
 * [Enlace del Repositorio Backend](https://github.com/DiegoCorrea07/Project_Tornado-React-MVC.git)
 * [Enlace del Repositorio Frontend](https://github.com/DiegoCorrea07/Project_Tornado-React-Frontend.git)
